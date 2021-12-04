@@ -1,0 +1,15 @@
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net6.0\MethodsExercise1.exe
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net6.0\MethodsExercise1.deps.json
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net6.0\MethodsExercise1.runtimeconfig.json
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net6.0\MethodsExercise1.dll
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net6.0\ref\MethodsExercise1.dll
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net6.0\MethodsExercise1.pdb
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.csproj.AssemblyReference.cache
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.AssemblyInfoInputs.cache
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.AssemblyInfo.cs
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.dll
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\ref\MethodsExercise1.dll
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.pdb
+C:\Users\bmcwa\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net6.0\MethodsExercise1.genruntimeconfig.cache
